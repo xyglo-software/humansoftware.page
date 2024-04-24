@@ -15,6 +15,7 @@ A modern local hero stands up to protect what is truly important.
 
 Is this what happens when we let the computer decide?
 
-Human Software is an AI thriller.
+_Human Software. An AI thriller by [Richard Bown](https://rebown.com). Coming Fall 2024._
 
-Coming Fall 2024.
+--
+

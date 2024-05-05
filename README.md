@@ -19,3 +19,13 @@ _Human Software. An AI thriller by [Richard Bown](https://rebown.com). Coming Fa
 
 --
 
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5GZBK56N4J"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5GZBK56N4J');
+</script>

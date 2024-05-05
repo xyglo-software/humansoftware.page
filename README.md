@@ -1,3 +1,17 @@
+<html>
+<header>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5GZBK56N4J"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5GZBK56N4J');
+</script>
+</header>
+</html>
+
 Chrissie, a young, ambitious VP from the US headquarters, is tasked with turning around a failing business in an English seaside backwater.
 
 Beth is a dreamer. A software engineer who envisions a better world for her customers, her colleagues and loved ones.
@@ -18,14 +32,3 @@ Is this what happens when we let the computer decide?
 _Human Software. An AI thriller by [Richard Bown](https://rebown.com). Coming Fall 2024._
 
 --
-
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-5GZBK56N4J"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-5GZBK56N4J');
-</script>
